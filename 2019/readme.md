@@ -13,7 +13,7 @@ Muestra de trabajos del espacio digital interactivo
 - LAURA CARRASCO SANCHEZ 
 - JOSE CASAS HERNANDEZ 
 - RAUL CHAVES JIMENEZ 
-- CRISTINA CORDERO GARCIA 
+- CRISTINA CORDERO GARCIA [MecorLife](https://orezero18.github.io/)
 - CARMEN DAMAS GONZALEZ 
 - JAIME DOMECH SERRANO
 - TANIA ERDOZAIN MUÑOZ :clapper: :+1: [Portfolio](https://taniaerdozain.github.io)
